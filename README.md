@@ -7,13 +7,13 @@ Link para o Relatório Interativo: [Relatório - Ações](https://app.powerbi.co
 
 # Definições Úteis 
 
-* Fechamento: Fornece o último preço pelo qual a ação foi negociada na Nasdaq no  final  do  dia  da  negociação.
+* Fechamento: Fornece o último preço pelo qual a ação foi negociada na NASDAQ no  final  do  dia  da  negociação.
 * Volume: Indica o número total de ações negociadas durante o dia.
 * Open: Indica o preço de abertura da ação na NASDAQ no início do dia de negociação. 
 * High: Indica o preço máximo que a ação foi negociada naquele dia.
 * Low:Indica o preço mínimo que a ação foi negociada naquele dia.
 
 
-Fonte dos dados: [Nasdaq](https://www.nasdaq.com/)
+Fonte dos dados: [NASDAQ](https://www.nasdaq.com/)
 
 ![image](https://user-images.githubusercontent.com/73412627/227751162-7216c962-df81-416d-b205-2b99da284d69.png)
