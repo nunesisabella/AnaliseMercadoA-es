@@ -2,7 +2,7 @@
 
 Este projeto foi criado a fim de práticar a análise de dados para o Mercado de Ações com o Power Bi.
 
-Link para o Relatório: [Relatório - Ações](https://app.powerbi.com/view?r=eyJrIjoiNGJkMGViYzgtMTJmZS00OTg5LWE0NDQtNTNlMDJiYTEwMGRmIiwidCI6IjIyYWJlM2MwLWFhMzAtNDFlZS1iN2U1LTBiNGJmODk1OGM5YyJ9)
+Link para o Relatório Interativo: [Relatório - Ações](https://app.powerbi.com/view?r=eyJrIjoiNGJkMGViYzgtMTJmZS00OTg5LWE0NDQtNTNlMDJiYTEwMGRmIiwidCI6IjIyYWJlM2MwLWFhMzAtNDFlZS1iN2U1LTBiNGJmODk1OGM5YyJ9)
 
 
 # Definições Úteis 
