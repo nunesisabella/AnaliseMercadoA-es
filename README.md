@@ -4,9 +4,8 @@ Este projeto foi criado afim de práticar a análise de dados para o Mercado de 
 
 Link para o Relatório: [Relatório - Ações](https://app.powerbi.com/view?r=eyJrIjoiNGJkMGViYzgtMTJmZS00OTg5LWE0NDQtNTNlMDJiYTEwMGRmIiwidCI6IjIyYWJlM2MwLWFhMzAtNDFlZS1iN2U1LTBiNGJmODk1OGM5YyJ9)
 
-Definições úteis:
 
-# Índice 
+# Definições Úteis 
 
 * Fechamento: Fornece o último preço pelo qual a ação foi negociada na Nasdaq no  final  do  dia  da  negociação.
 * Volume: Indica o número total de ações negociadas durante o dia.
